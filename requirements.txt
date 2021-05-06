@@ -40,7 +40,7 @@ fastcache==1.0.2
 filelock==3.0.4
 Flask==0.12.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-Dance==1.1.0
 Flask-SeaSurf==0.2.2
 gast==0.2.0
